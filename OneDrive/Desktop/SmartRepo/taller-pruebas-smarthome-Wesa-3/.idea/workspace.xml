@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a01eed8-540d-4042-b297-d0fb63313850" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3ABcE8RequwccZ1JiWnpD9gnLLl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DeviceIdComparatorTest.compareIdTest.executor": "Run",
+    "JUnit.DeviceNameComparatorTest.compareNameTest.executor": "Run",
+    "JUnit.DeviceNameComparatorTest.compareStatusTest.executor": "Run",
+    "JUnit.DeviceStatusComparatorTest.compareStatusTest.executor": "Run",
+    "JUnit.DeviceTypeComparatorTest.compareTypeTest.executor": "Run",
+    "JUnit.SecurityCameraTest.testStartRecording.executor": "Run",
+    "JUnit.SecurityCameraTest.testStartRecordingIllegalState.executor": "Run",
+    "JUnit.SecurityCameraTest.testStopRecording.executor": "Run",
+    "JUnit.SecurityCameraTest.testTurnOn.executor": "Run",
+    "JUnit.SmartHomeTest.executor": "Run",
+    "JUnit.SmartHomeTest.testAddDevice.executor": "Run",
+    "JUnit.SmartHomeTest.testAddDeviceDuplicatedID.executor": "Run",
+    "JUnit.SmartHomeTest.testAddDeviceNullID.executor": "Run",
+    "JUnit.SmartHomeTest.testTurnOffDevice.executor": "Run",
+    "JUnit.SmartHomeTest.testTurnOnDevice.executor": "Run",
+    "JUnit.SmartLightTest.testConfigure.executor": "Run",
+    "JUnit.SmartLightTest.testConfigureInvalidValue.executor": "Run",
+    "JUnit.SmartLightTest.testTurnOff.executor": "Run",
+    "JUnit.SmartLightTest.testTurnOn.executor": "Run",
+    "JUnit.SmartThermostatTest.testConfigure.executor": "Run",
+    "JUnit.SmartThermostatTest.testConfigureInvalid.executor": "Run",
+    "JUnit.SmartThermostatTest.testConfigureInvalid2.executor": "Run",
+    "JUnit.SmartThermostatTest.testTurnOn.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/staar/OneDrive/Desktop/SmartRepo/taller-pruebas-smarthome-Wesa-3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\staar\OneDrive\Desktop\SmartRepo\taller-pruebas-smarthome-Wesa-3\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DeviceIdComparatorTest.compareIdTest">
+    <configuration name="DeviceIdComparatorTest.compareIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartHome" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeviceIdComparatorTest" />
+      <option name="METHOD_NAME" value="compareIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceNameComparatorTest.compareNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartHome" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeviceNameComparatorTest" />
+      <option name="METHOD_NAME" value="compareNameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceNameComparatorTest.compareStatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartHome" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeviceNameComparatorTest" />
+      <option name="METHOD_NAME" value="compareStatusTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceStatusComparatorTest.compareStatusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartHome" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeviceStatusComparatorTest" />
+      <option name="METHOD_NAME" value="compareStatusTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceTypeComparatorTest.compareTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartHome" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeviceTypeComparatorTest" />
+      <option name="METHOD_NAME" value="compareTypeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeviceIdComparatorTest.compareIdTest" />
+        <item itemvalue="JUnit.DeviceNameComparatorTest.compareNameTest" />
+        <item itemvalue="JUnit.DeviceTypeComparatorTest.compareTypeTest" />
+        <item itemvalue="JUnit.DeviceStatusComparatorTest.compareStatusTest" />
+        <item itemvalue="JUnit.DeviceNameComparatorTest.compareStatusTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a01eed8-540d-4042-b297-d0fb63313850" name="Changes" comment="" />
+      <created>1772069290649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772069290649</updated>
+      <workItem from="1772069291983" duration="910000" />
+      <workItem from="1772071110139" duration="9547000" />
+      <workItem from="1772142799959" duration="2301000" />
+      <workItem from="1772230710883" duration="2894000" />
+      <workItem from="1772384882839" duration="782000" />
+      <workItem from="1772467706912" duration="1325000" />
+      <workItem from="1772546609888" duration="537000" />
+      <workItem from="1772634800558" duration="83000" />
+      <workItem from="1772635605694" duration="461000" />
+      <workItem from="1772808095817" duration="1097000" />
+      <workItem from="1772809800375" duration="15000" />
+      <workItem from="1772810229211" duration="1735000" />
+      <workItem from="1773015600484" duration="18000" />
+      <workItem from="1773238788540" duration="3887000" />
+      <workItem from="1773578949241" duration="6842000" />
+      <workItem from="1773672399693" duration="9710000" />
+      <workItem from="1773757585953" duration="9622000" />
+      <workItem from="1773781032821" duration="3727000" />
+      <workItem from="1774011764031" duration="50000" />
+      <workItem from="1774018340722" duration="1110000" />
+      <workItem from="1774019896430" duration="3402000" />
+      <workItem from="1774114188985" duration="23000" />
+      <workItem from="1774119722177" duration="2393000" />
+      <workItem from="1774185320143" duration="1256000" />
+      <workItem from="1774198660970" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ui/Main.java</url>
+          <line>232</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ui/Main.java</url>
+          <line>257</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
